@@ -102,4 +102,4 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## RESULT:
-The information gathering techniques tools/procedure were  identified successfully
+The information gathering techniques tools/procedure were  identified successfully.
